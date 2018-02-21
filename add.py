@@ -1,5 +1,5 @@
 def add(x,y):
-    """Example docstring"""
+    """Add function"""
     return x+y
 
 print(add(5,7))
